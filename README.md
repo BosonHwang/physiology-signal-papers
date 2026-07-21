@@ -1,6 +1,6 @@
 # Physiology Signal Papers
 
-A curated collection of important AI research papers on **physiological signals** — ECG, EEG, PPG, EMG, respiration, and other biosignals — spanning representation learning, foundation models, multimodal fusion, and clinical applications.
+A curated collection of **important** AI research papers on **physiological signals** — ECG, EEG, PPG, EMG, respiration, and other biosignals — spanning representation learning, foundation models, multimodal fusion, and clinical applications.
 
 ## Contents
 
@@ -22,11 +22,16 @@ A curated collection of important AI research papers on **physiological signals*
 
 # [Bench](#contents)
 
+- Position: Evaluation of ECG Representations Must Be Fixed (2026) [paper](https://arxiv.org/abs/2602.17531), [code](https://github.com/zackeberger/ecg-fix)
+
 # [Datasets](#contents)
 
 - CODE-II: A large-scale dataset for artificial intelligence in ECG analysis (2025) [paper](https://arxiv.org/abs/2511.15632), [code](https://github.com/antonior92/automatic-ecg-diagnosis)
 
 # [ECG](#contents)
+
+- Learning Cardiac Latent Representations in Vectorcardiogram Space (2026) [paper](https://arxiv.org/abs/2605.31249), [code](https://github.com/BosonHwang/LVCG)
+- An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains (2024) [paper](https://arxiv.org/abs/2410.04133), [code](https://github.com/PKUDigitalHealth/ECGFounder)
 
 # [EEG](#contents)
 
