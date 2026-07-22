@@ -45,6 +45,8 @@ A curated collection of ⭐ ***notable*** AI research papers on **physiological 
 
 # [PPG](#contents)
 
+- [CAP](https://arxiv.org/abs/2606.15284) • Towards PPG Universal Representation Learning with Patient-level Supervision (2026), [code](https://github.com/gody123gody/CAP)
+
 # [EMG](#contents)
 
 # [Multimodal Signal](#contents)
